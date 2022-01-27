@@ -1,6 +1,6 @@
 # JavaMetrics
 
-![test workflow](https://github.com/arekziobrowski/JavaMetrics/actions/workflows/test.yml/badge.svg)
+![test workflow](https://github.com/SoftwareEngineeringLab/javametrics/actions/workflows/test.yml/badge.svg)
 
 Java source code metric derivation tool.
 
